@@ -37,6 +37,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 
 想让谁收消息，谁就用微信扫二维码，然后出现在用户列表，获取微信号（openId）
  ![image](https://github.com/tech-shrimp/FreeWechatPush/assets/154193368/1327c6f5-5c92-4310-a10b-6f2956c1dd75)
+可以在OPEN_ID设置多个收件人，多个openID用,分割
 
 新增测试模板获得  template_id（模板ID）
  ![image](https://github.com/tech-shrimp/FreeWechatPush/assets/154193368/ec689f4d-6c0b-44c4-915a-6fd7ada17028)
